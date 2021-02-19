@@ -1,0 +1,8 @@
+//example overide of bootstrap vars
+//to see all vars got to node_modules/bootstrap/scss/bootstrap.scss
+$primary: pink;
+$danger: purple;
+$body-bg: #222;
+//example import of bootstrap import
+//this will import every bootstrap component
+@import "~bootstrap/scss/bootstrap"
